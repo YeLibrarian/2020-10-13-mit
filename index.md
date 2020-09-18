@@ -171,7 +171,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>). High speed internet connection and Zoom access are necessary to participate in this online workshop. An optional mobile device or a secondary display is helpful with monitoring the instructor's screen and live coding simultaneously, but it's not required.
 </p>
 
 {% comment %}
@@ -203,6 +203,14 @@ special instructions.
   anything we can do to make this workshop more accessible to you.
 </p>
 {% endif %}
+
+
+<h2>Registration</h2>
+<p>Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/carpentries2020-10-13">https://libcal.mit.edu/calendar/events/carpentries2020-10-13</a>.
+Registration opens on September 22, 2020. </p>
+
+<p>
+You are expected to attend the workshop on all four afternoons. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you!
 
 {% comment %}
 CONTACT EMAIL ADDRESS
